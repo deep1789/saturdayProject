@@ -1,0 +1,6 @@
+Working directory
+Staging area
+Git directory
+These stages are the essence of Git. You get great flexibility in tracking the files due to these stages that files can reside in under Git. Let's understand each of these states one by one.
+Working Directory
+Consider a project residing in your local system. This project may or may not be tracked by Git. In either case, this project directory is
